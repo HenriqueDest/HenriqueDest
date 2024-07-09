@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">- Researcher at UNOESC<br>- Python Developer<br>- AI and Computer Vision Enthusiast</h4>
+<h3 align="left">✢ Researcher at UNOESC<br>✢ Python Developer<br>✢ AI and Computer Vision Enthusiast</h3>
 
 ###
 
