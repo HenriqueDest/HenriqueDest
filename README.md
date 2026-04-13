@@ -6,8 +6,8 @@ Atuo no ciclo completo de desenvolvimento, desde o desenho da arquitetura e infr
 
 #### 💻 Stack Principal
 * **Linguagens & Frameworks:** Node.js, Go, Python, Vue.js 3
-* **Infra & Cloud:** AWS (EC2, S3, Lightsail), Cloudflare, Servidores Linux/Unix (FreeBSD, Ubuntu)
-* **Bancos de Dados & Filas:** MySQL, PostgreSQL, Redis, SQLite
+* **Infra & Cloud:** AWS, Cloudflare, Servidores Linux/Unix (FreeBSD, Ubuntu)
+* **Bancos de Dados & Filas:** MySQL, PostgreSQL, Redis
 
 ---
 📫 **Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemigueldejesus/)
