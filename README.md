@@ -1,5 +1,3 @@
-### Olá! 👋 Eu sou o Henrique.
-
 **Engenheiro de Computação | Arquitetura de Software Distribuída | Full Stack & Infraestrutura**
 
 Atuo no ciclo completo de desenvolvimento, desde o desenho da arquitetura e infraestrutura (Cloud/On-premise) até a entrega da aplicação em produção. Tenho forte foco na construção de sistemas escaláveis, segurança de redes e otimização de performance.
@@ -10,4 +8,4 @@ Atuo no ciclo completo de desenvolvimento, desde o desenho da arquitetura e infr
 * **Bancos de Dados & Filas:** MySQL, PostgreSQL, Redis
 
 ---
-📫 **Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemigueldejesus/)
+📫 **Como me encontrar:**[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemigueldejesus/)
